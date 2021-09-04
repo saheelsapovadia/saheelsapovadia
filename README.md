@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- :technologist: My personal site :star_struck:
+- :technologist: [My personal site](https://saheelsapovadia.github.io/)  :star_struck:
 
 - 🔭 I’m currently developing a Mock Examination Web App for a School
 - 🌱 I’m currently learning React-Native
