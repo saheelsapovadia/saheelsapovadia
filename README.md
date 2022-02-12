@@ -24,12 +24,13 @@ Here are some ideas to get you started:
 <h1 style="font-size:25px;text-align:center;font-family: 'Roboto', sans-serif;">Projects</h1>
 
 1. Facebook clone [Deployed](http://saheel-facebook.herokuapp.com)
-   1.1 React js
-   1.2 Tailwind CSS
+
+   1. React js
+   2. Tailwind CSS
 
 2. Zoom clone (on going ) [Deployed](http://zoom-web-client.herokuapp.com/)
-   2.1 React js
-   2.2 Scss
+   1. React js
+   2. Scss
 
 <div align="center">
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saheelsapovadia&theme=tokyonight) -->
@@ -37,4 +38,8 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saheelsapovadia&theme=tokyonight"/>
 </div>
 
-[![Saheel's GitHub stats](https://github-readme-stats.vercel.app/api?username=saheelsapovadia&hide=stars&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+<!-- [![Saheel's GitHub stats](https://github-readme-stats.vercel.app/api?username=saheelsapovadia&hide=stars&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=saheelsapovadia&hide=stars&count_private=true&show_icons=true&theme=radical"/>
+</div>
