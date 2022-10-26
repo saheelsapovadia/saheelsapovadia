@@ -14,12 +14,19 @@ Here are some ideas to get you started:
 - :technologist: [My personal site](https://saheelsapovadia.github.io/) :star_struck:
 
 - 🚀 I’m currently Software Developer Intern @Motorola Solutions
+- 📍 I'm a full stack developer who loves to build user-centric products that solve real world problems.
+- 🔧 I am proficient in JavaScript and the React ecosystem. 
+- ⚡ I have experience in Angular ecosystem, developing platform used by actual customer teams @Motorola Solutions
+- ✨ Learned the best practices to code efficiently and design crisp UI for end-users
+- 💪 I have experience in developing REST APIs using backend frameworks like Nodejs
+- 🔥 Have exposure of development with version control (git tooling) and CI/CD practices
+- 👮‍♂️ Responsible of addressing the PRs (Jira) and providing with the fix / features to the customer teams @Motorola Solutions
 - 🌱 I’m currently learning React-Native
 - 👯 I’m looking to collaborate on anything React
 <!--- 🤔 I’m looking for help with ... -->
-- 💬 Ask me about React js
 - 📫 How to reach me: [Twitter - @savvysaheel](https://twitter.com/savvysaheel) or [LinkedIn - Saheel Sapovadia](https://www.linkedin.com/in/saheel-sapovadia-76b26b1a6/)
-- ⚡ Fun fact: Love Photography, Art & Music as well
+
+- ⚡ Love Photography, Art & Music as well
 
 <h1 style="font-size:25px;text-align:center;font-family: 'Roboto', sans-serif;">Skills</h1>
 
