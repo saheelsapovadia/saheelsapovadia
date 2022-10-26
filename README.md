@@ -46,7 +46,7 @@ Here are some ideas to get you started:
    1. React js
    2. Tailwind CSS
 
-2. Novel web app [Repo](https://github.com/saheelsapovadia/EAheroku)
+2. Novel web app [Deployed](https://lit-temple-67513.herokuapp.com/) | [Repo](https://github.com/saheelsapovadia/EAheroku)
    1. React js
    2. Node js
    3. Express js
