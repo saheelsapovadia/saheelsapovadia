@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - :technologist: [My personal site](https://saheelsapovadia.github.io/) :star_struck:
 
-- 🔭 I’m currently developing a Mock Examination Web App for a School
+- 🚀 I’m currently Software Developer Intern @Motorola Solutions
 - 🌱 I’m currently learning React-Native
 - 👯 I’m looking to collaborate on anything React
 <!--- 🤔 I’m looking for help with ... -->
@@ -21,16 +21,33 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter - @savvysaheel](https://twitter.com/savvysaheel) or [LinkedIn - Saheel Sapovadia](https://www.linkedin.com/in/saheel-sapovadia-76b26b1a6/)
 - ⚡ Fun fact: Love Photography, Art & Music as well
 
+<h1 style="font-size:25px;text-align:center;font-family: 'Roboto', sans-serif;">Skills</h1>
+
+1. React js
+2. Node js
+3. Express js
+4. Angular js
+5. PostgreSQL
+6. React native
+7. Data structures and Alogrithms
+
+
 <h1 style="font-size:25px;text-align:center;font-family: 'Roboto', sans-serif;">Projects</h1>
 
-1. Facebook clone [Deployed](http://saheel-facebook.herokuapp.com)
+1. Facebook clone [Deployed](http://saheel-facebook.herokuapp.com) | [Repo](https://github.com/saheelsapovadia/facebook)
 
    1. React js
    2. Tailwind CSS
 
-2. Zoom clone (on going ) [Deployed](http://zoom-web-client.herokuapp.com/)
+2. Novel web app [Repo](https://github.com/saheelsapovadia/EAheroku)
    1. React js
-   2. Scss
+   2. Node js
+   3. Express js
+   4. MongoDB
+
+3. Pomodoro App [Repo](https://github.com/saheelsapovadia/Pomodoro)
+   1. React native
+   2. Native android
 
 <div align="center">
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saheelsapovadia&theme=tokyonight) -->
