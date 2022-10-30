@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 - 🚀 I’m currently Software Developer Intern @Motorola Solutions
 - 📍 I'm a full stack developer who loves to build user-centric products that solve real world problems.
-- 🔧 I am proficient in JavaScript and the React ecosystem. 
+- 🔧 I am proficient in JavaScript and the React ecosystem
+- 🎸 Redux, GraphQL, Apollo 
 - ⚡ I have experience in Angular ecosystem, developing platform used by actual customer teams @Motorola Solutions
 - ✨ Learned the best practices to code efficiently and design crisp UI for end-users
 - 💪 I have experience in developing REST APIs using backend frameworks like Nodejs
