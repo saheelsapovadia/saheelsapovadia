@@ -31,13 +31,15 @@ Here are some ideas to get you started:
 
 <h1 style="font-size:25px;text-align:center;font-family: 'Roboto', sans-serif;">Skills</h1>
 
-1. React js
-2. Node js
-3. Express js
-4. Angular js
-5. PostgreSQL
-6. React native
-7. Data structures and Alogrithms
+1. Angular js
+2. Springboot
+3. React js
+4. Node js
+5. Express js
+6. PostgreSQL
+7. DevOps
+8. React native
+9. Data structures and Alogrithms
 
 
 <h1 style="font-size:25px;text-align:center;font-family: 'Roboto', sans-serif;">Projects</h1>
