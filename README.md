@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=14099703&theme=dark"/>
 </div>
 
-- :technologist: [My personal site](https://saheelsapovadia.github.io/) :star_struck:
+- :technologist: [My personal site](https://portfolio-app-sdz5.onrender.com/) :star_struck:
 
 - 🚀 I’m currently Software Developer Intern @Motorola Solutions
 - 📍 I'm a full stack developer who loves to build user-centric products that solve real world problems.
