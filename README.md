@@ -20,11 +20,13 @@ public class SaheelController {
    public ResponseEntity<Developer> getSkills() {
        return ResponseEntity.ok(
            Developer.builder()
-               .languages(List.of("Java", "Python", "JavaScript"))
-               .frameworks(List.of("Spring Boot", "Hibernate", "JUnit"))
-               .architecture(List.of("Microservices", "Event-Driven", "REST APIs"))
-               .cloud(List.of("Azure AKS", "Kubernetes", "Docker"))
+               .languages(List.of("Java", "Python"))
+               .frameworks(List.of("Spring Boot", "FastAPI", "LangGraph"))
+               .packages(List.of("Hibernate", "JPA", "JUnit", "Mockito"))
                .databases(List.of("PostgreSQL", "Redis", "Elasticsearch"))
+               .cloud(List.of("Microsoft Azure", "GCP", "Kubernetes", "Docker"))
+               .architecture(List.of("Microservices", "Event-Driven", "REST APIs"))
+               .tools(List.of("Cursor", "Github Copilot")
                .build()
        );
    }
@@ -65,7 +67,7 @@ public class SaheelController {
 
 ## 🏆 Recognition
 
-- **Google Cloud Professional Data Engineer** Certified
+- **Google Cloud Professional Data Engineer** Certified | [Certificate](https://www.credly.com/badges/c1a61281-3d85-4439-aeb1-45c9775db957/public_url)
 - **17M+ monthly downloads** impact through open-source contributions
 - **Production systems** serving thousands of concurrent users
 - **Moment Award** winner for technical innovation
@@ -83,7 +85,7 @@ public class SaheelController {
 
 ## 📫 Let's Connect
 
-- 🌐 **Portfolio:** [portfolio-app-sdz5.onrender.com](https://portfolio-app-sdz5.onrender.com/)
+<!--- - 🌐 **Portfolio:** [portfolio-app-sdz5.onrender.com](https://portfolio-app-sdz5.onrender.com/) -->
 - 💼 **LinkedIn:** [saheel-sapovadia](https://www.linkedin.com/in/saheel-sapovadia)
 - 🧩 **LeetCode:** [@savvysaheel](https://leetcode.com/savvysaheel/)
 - 🐦 **Twitter:** [@savvysaheel](https://twitter.com/savvysaheel)
