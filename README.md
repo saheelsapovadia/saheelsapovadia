@@ -1,12 +1,19 @@
-# Hi there, I'm Saheel! 👋
+# 👋 Hi, I'm **Saheel Sapovadia**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saheelsapovadia&hide=stars&count_private=true&show_icons=true&theme=radical"/>
-</div>
+### **Software Engineer 2 | Distributed Systems | Cloud | Java Ecosystem | Kubernetes | Docker**
 
-## 🚀 What I Build
+I design and build **fault-tolerant, scalable backend systems** with a focus on **microservices, event-driven pipelines, and real-time applications**. Currently contributing to mission-critical product suite at **Motorola Solutions Inc.**
 
-**Backend Systems Engineer** passionate about **scalable microservices**, **event-driven architectures**, and **open-source software**. Currently architecting production systems at **Motorola Solutions** using **Java ecosystem** and **cloud-native technologies**.
+---
+
+### 🚀 About Me
+
+- Architecting **Java + Spring Boot microservices** at scale  
+- Building **event-driven applications** using Kafka/Redis/Service Bus  
+- Deploying high-availability workloads on **Kubernetes + Azure Cloud**  
+- Optimizing systems through **performance tuning + observability**  
+- Active contributor to **open-source libraries with millions of downloads**
+- Experienced in **Angular** for building enterprise-grade UI that integrates with backend microservices
 
 ```java
 @RestController
@@ -20,8 +27,8 @@ public class SaheelController {
    public ResponseEntity<Developer> getSkills() {
        return ResponseEntity.ok(
            Developer.builder()
-               .languages(List.of("Java", "Python"))
-               .frameworks(List.of("Spring Boot", "FastAPI", "LangGraph"))
+               .languages(List.of("Java", "JavaScript", "Python"))
+               .frameworks(List.of("Spring Boot", "Angular"))
                .packages(List.of("Hibernate", "JPA", "JUnit", "Mockito"))
                .databases(List.of("PostgreSQL", "Redis", "Elasticsearch"))
                .cloud(List.of("Microsoft Azure", "GCP", "Kubernetes", "Docker"))
@@ -38,6 +45,13 @@ public class SaheelController {
 ---
 
 ## ⚡ Technical Highlights
+🔧 Tech Stack
+
+Java • Spring Boot • REST APIs • Microservices
+• Angular • Kafka • Azure Service Bus • Redis • Liquibase
+• PostgreSQL • MongoDB • Elasticsearch
+• Docker • Kubernetes • Azure • GCP • 
+Prometheus • ELK • JUnit • CI/CD
 
 ### **Production-Grade Java Systems**
 - **25+ REST APIs** in production serving real-time traffic
@@ -49,7 +63,7 @@ public class SaheelController {
 ### **DevOps & Cloud Engineering**
 - **CI/CD pipelines** with Azure DevOps, Docker, and Kubernetes
 - **ELK stack monitoring** (Elasticsearch, Logstash, Kibana) for distributed systems
-- **24/7 production support** and incident response
+- **24/7 production support** and incident response via PagerDuty
 - **Infrastructure as Code** on Microsoft Azure (AKS, PostgreSQL, Service Bus)
 
 ---
@@ -65,12 +79,12 @@ public class SaheelController {
 
 ---
 
-## 🏆 Recognition
+## 🏆 Achievements
 
-- **Google Cloud Professional Data Engineer** Certified | [Certificate](https://www.credly.com/badges/c1a61281-3d85-4439-aeb1-45c9775db957/public_url)
-- **17M+ monthly downloads** impact through open-source contributions
-- **Production systems** serving thousands of concurrent users
-- **Moment Award** winner for technical innovation
+🏅 Google Cloud Professional Data Engineer (2024) | [Certificate](https://www.credly.com/badges/c1a61281-3d85-4439-aeb1-45c9775db957/public_url) <br>
+📌 Production platforms serving thousands of users <br>
+🌍 Open-source impact across millions of downloads <br>
+🏆 Recipient of “Moment” & “High-Five” awards at Motorola Solutions
 
 ---
 
