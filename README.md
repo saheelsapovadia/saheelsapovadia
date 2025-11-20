@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Saheel Sapovadia**
 
-### **Software Engineer 2 | Distributed Systems | Cloud | Java Ecosystem | Kubernetes | Docker**
+### **Software Engineer 2 | Distributed Systems | Cloud | Java Ecosystem | Angular | Kubernetes | Docker**
 
 I design and build **fault-tolerant, scalable backend systems** with a focus on **microservices, event-driven pipelines, and real-time applications**. Currently contributing to mission-critical product suite at **Motorola Solutions Inc.**
 
@@ -10,10 +10,10 @@ I design and build **fault-tolerant, scalable backend systems** with a focus on 
 
 - Architecting **Java + Spring Boot microservices** at scale  
 - Building **event-driven applications** using Kafka/Redis/Service Bus  
-- Deploying high-availability workloads on **Kubernetes + Azure Cloud**  
+- Deploying high-availability workloads on **Kubernetes + Azure Cloud**
+- Experienced in **Angular** for building enterprise-grade UI that integrates with backend microservices
 - Optimizing systems through **performance tuning + observability**  
 - Active contributor to **open-source libraries with millions of downloads**
-- Experienced in **Angular** for building enterprise-grade UI that integrates with backend microservices
 
 ```java
 @RestController
